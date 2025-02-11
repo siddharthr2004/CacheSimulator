@@ -37,7 +37,7 @@ This **C-based cache simulator** efficiently models **cache behavior**, tracking
 ##  **How to Run**  
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/yourusername/cache-simulator.git  
+git clone https://github.com/siddharthr2004/cache-simulator.git  
 cd cache-simulator  
 ```  
 
