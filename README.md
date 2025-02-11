@@ -8,7 +8,7 @@ This **C-based cache simulator** efficiently models **cache behavior**, tracking
 🔹 **Tracks memory hits, misses, and evictions**   
 🔹 **Uses LRU (Least Recently Used) replacement strategy**   
 🔹 **Dynamically allocates and deallocates memory on the heap**   
-🔹 **Supports both read & write operations** ✍️ 
+🔹 **Supports both read & write operations** ✍ 
 
  **Why?:** This tool is ideal for **low-level memory optimization**, understanding and teaching **cache mechanics**, and understanding **how compilers optimize performance**.  
 
